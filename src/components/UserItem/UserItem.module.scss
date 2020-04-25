@@ -1,0 +1,26 @@
+@import "../../assets/theme";
+
+.wrapper {
+    background-color: $primary;
+    border-radius: 4px;
+    margin: 10px;
+    padding:10px;
+    .content {
+        display: flex;
+        align-items: center;
+        color: $white;
+        .image {
+            margin-right: 1%;
+            img {
+                height: 60px;
+                width: 60px;
+                border-radius: 50%;
+            }
+        }
+        .info {
+            font-size:1rem;
+            display: flex;
+            flex-direction: column;
+        }
+    }
+}
