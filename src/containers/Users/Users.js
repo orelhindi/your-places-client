@@ -7,19 +7,19 @@ export default () => {
         {
             id: 1,
             image: DefaultUser,
-            name: 'user1',
+            name: 'Orel Hindi',
             places: 10
         },
         {
             id: 2,
             image: DefaultUser,
-            name: 'user2',
+            name: 'Orel Hindi',
             places: 10
         },
         {
             id: 3,
             image: DefaultUser,
-            name: 'user3',
+            name: 'Orel Hindi',
             places: 10
         },
     ]
